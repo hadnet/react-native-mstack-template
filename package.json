@@ -1,0 +1,8 @@
+{
+  "name": "react-native-mstack-template",
+  "version": "0.0.1",
+  "description": "React Native Template",
+  "repository": "git@github.com:hadnet/react-native-mstack-template.git",
+  "author": "hadnet",
+  "license": "MIT"
+}
